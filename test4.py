@@ -360,7 +360,7 @@ def Analyze():
 # In[93]:
 
 
-def Swap():
+def Run():
     
     struct_path = sys.argv[1]
      
@@ -714,7 +714,7 @@ def Swap():
 
 
 if __name__ == "__main__":
-    Swap()
+    Run()
 
 
 # In[ ]:
